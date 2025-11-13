@@ -84,7 +84,7 @@ Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, sug
 
 > Este conteúdo faz parte do projeto **Otimizando o Sistema Bancário com Funções Python - Laboratório** da plataforma DIO.me.
 
-📎 Link do curso: [DIO.me](https://web.dio.me/home) 
+📎 Link do curso: [DIO.me](https://web.dio.me/home)
 
 ---
 
